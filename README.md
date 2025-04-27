@@ -1,4 +1,8 @@
 Hello and welcome 👋, i am Lakshya Yadav
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+🌱 I am currently learning web design from https://www.freecodecamp.org/learn/2022/responsive-web-design/
+
 
 <!--
 **Lakshya-ydv/Lakshya-ydv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
