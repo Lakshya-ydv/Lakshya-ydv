@@ -1,4 +1,4 @@
-Hello and welcome 👋, i am Lakshya Yadav
+Hello and welcome 👋, i am Lakshya 
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🌱 I am currently learning web design from https://www.freecodecamp.org/
