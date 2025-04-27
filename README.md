@@ -1,7 +1,7 @@
 Hello and welcome 👋, i am Lakshya Yadav
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-🌱 I am currently learning web design from www.freecodecamp.orgresponsive-web-design/
+🌱 I am currently learning web design from https://www.freecodecamp.org/
 
 
 <!--
